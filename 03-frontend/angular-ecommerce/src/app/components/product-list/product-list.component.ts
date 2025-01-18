@@ -7,7 +7,7 @@ import { Product } from '../../common/product';
   standalone: false,
   
   //templateUrl: './product-list.component.html',
-  templateUrl: './product-list-table.component.html',
+  templateUrl: './product-list-grid.component.html',
   styleUrl: './product-list.component.css'
 })
 
